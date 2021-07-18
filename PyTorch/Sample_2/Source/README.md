@@ -16,4 +16,4 @@
   14. Convolutional Neural Net (CNN)
   15. Transfer Learning
   16. Tensorboard
-  17. Save and Load Models
+  17. Save and Load Models.
