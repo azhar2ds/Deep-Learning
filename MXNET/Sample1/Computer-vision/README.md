@@ -9,13 +9,6 @@ MXNet is a multi-language machine learning (ML) library to ease the development 
 [Different Source code for Computer vision task](https://github.com/azhar2ds/Deep-Learning/tree/master/MXNET/Sample1/Computer-vision)
 
   
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
   
 ## Analyzing Wikipedia Pages
@@ -39,7 +32,7 @@ Answer 2
 
   
 ## 🚀 About Me
-I'm a full stack developer Data Scientist...
+I'm a full stack Data Scientist...
 
   
 ## Features
